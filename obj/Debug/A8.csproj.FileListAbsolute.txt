@@ -1,0 +1,12 @@
+D:\mphasis\2 phase\Day 9\A8\A8\obj\Debug\A8.csproj.AssemblyReference.cache
+D:\mphasis\2 phase\Day 9\A8\A8\obj\Debug\A8.csproj.CoreCompileInputs.cache
+D:\mphasis\2 phase\Day 9\A8\A8\bin\Debug\A8.exe.config
+D:\mphasis\2 phase\Day 9\A8\A8\bin\Debug\A8.exe
+D:\mphasis\2 phase\Day 9\A8\A8\bin\Debug\A8.pdb
+D:\mphasis\2 phase\Day 9\A8\A8\bin\Debug\EntityFramework.dll
+D:\mphasis\2 phase\Day 9\A8\A8\bin\Debug\EntityFramework.SqlServer.dll
+D:\mphasis\2 phase\Day 9\A8\A8\bin\Debug\EntityFramework.xml
+D:\mphasis\2 phase\Day 9\A8\A8\bin\Debug\EntityFramework.SqlServer.xml
+D:\mphasis\2 phase\Day 9\A8\A8\obj\Debug\A8.csproj.CopyComplete
+D:\mphasis\2 phase\Day 9\A8\A8\obj\Debug\A8.exe
+D:\mphasis\2 phase\Day 9\A8\A8\obj\Debug\A8.pdb
